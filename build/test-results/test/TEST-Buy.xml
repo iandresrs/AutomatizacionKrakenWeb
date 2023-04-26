@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Buy" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-10T15:50:33" hostname="SQABOG-SQA4115" time="32.794">
+  <properties/>
+  <testcase name="Buy laptop" classname="Buy" time="32.794"/>
+  <system-out><![CDATA[[HP Chromebook 14 G1(ENERGY STAR), HP Chromebook 14 G1(ES), HP ENVY - 17t Touch Laptop, HP ENVY x360 - 15t Laptop, HP Pavilion 15t Touch Laptop, HP Pavilion 15z Laptop, HP Pavilion 15z Touch Laptop, HP Pavilion x360 - 11t Touch Laptop, HP Spectre x360 - 13-4102dx, HP Stream - 11-d020nr Laptop, HP ZBook 17 G2 Mobile Workstation]
+]]></system-out>
+  <system-err><![CDATA[Apr 10, 2023 10:50:33 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized --disable..., goog:chromeOptions: {args: [--start-maximized, --disable-popup-blocking], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 1150
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr 10, 2023 10:50:35 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Buy laptop
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
